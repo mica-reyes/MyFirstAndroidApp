@@ -1,2 +1,2 @@
 # MyFirstAndroidApp
-[apk]{https://github.com/mica-reyes/MyFirstAndroidApp/blob/main/app-debug.apk}
+[apk](https://github.com/mica-reyes/MyFirstAndroidApp/blob/main/app-debug.apk)
